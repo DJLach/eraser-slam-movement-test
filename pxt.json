@@ -1,0 +1,52 @@
+{
+    "name": "Eraser Slam Movement Test",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "testSpritePackLachapelle": "github:DJLach/testspritepacklachapelle#c7020fc9c08f79d06b878317b90e04254b23ac0c"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.56",
+        "tag": "v1.12.56",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/415ef2df2ac233e8d214fef5f4ea26f2f5de232a",
+        "target": "1.12.57",
+        "pxt": "8.5.67",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF0000",
+        "#FF77A8",
+        "#FFA300",
+        "#FFEC27",
+        "#008751",
+        "#00E436",
+        "#29ADFF",
+        "#959697",
+        "#474747",
+        "#83769C",
+        "#5F574F",
+        "#FFCCAA",
+        "#AB5236",
+        "#1D2B53"
+    ]
+}
